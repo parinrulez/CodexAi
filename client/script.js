@@ -76,7 +76,7 @@ const handleSubmit = async (e) => {
 
   //fetch data from server => bot's response
 
-  const response = await fetch('https://codexai-4aus.onrender.com', {
+  const response = await fetch('https://codexai-eknm.onrender.com', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
